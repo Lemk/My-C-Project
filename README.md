@@ -1,2 +1,2 @@
-# My-C-Project
-Learn C
+
+Modern C in 21 Century
